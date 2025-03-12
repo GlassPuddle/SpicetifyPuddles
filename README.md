@@ -1,0 +1,2 @@
+# SpicetifyPuddles
+Spicetify Puddles
